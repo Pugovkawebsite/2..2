@@ -1,0 +1,41 @@
+.animated:hover {
+    background: var(--main-color);
+    color: #f5f6f7;
+    box-shadow: inset 0 0 0 3px #f5f6f7;
+    cursor: pointer;
+    
+}
+.weight:hover {
+    font-weight: 600;
+    font-size: 15px;
+}
+.btn__form:hover {
+    opacity: 0.8;
+    transform: scale(0.8);
+}
+.button_main:hover {
+   
+    transition: 1s;    
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    
+  }
+.grid__icon:hover {
+    cursor: pointer;
+}
+
+.hover-effect3 {    
+    -webkit-transition: all 0.5s ease;    
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.hover-effect3:hover{
+    margin-top:10px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+    
+  
